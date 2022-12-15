@@ -1,4 +1,7 @@
 package com.cydeo;
 
 public class yyUS {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }

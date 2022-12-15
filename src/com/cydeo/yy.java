@@ -1,4 +1,4 @@
 package com.cydeo;
 
-public class US25 {
+public class yy {
 }
